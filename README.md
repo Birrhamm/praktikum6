@@ -1,7 +1,8 @@
 ## Membuat dictionary dari daftar kontak
 
 
-- Tampilan kontak dari Ari di bawah ini
+- Tampilan kontak dari Ari
+-
 
 - Menambahkan kontak baru dengan menggunakan nama Riko nomor 087654544
 
