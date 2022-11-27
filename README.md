@@ -62,7 +62,6 @@
 - Langkah ke empat belas kemudian kita akan menginputkan 'k ' maka secara otomatis program yang kita inputan tadi akan langsung berhenti
 ![gambar](gambar/p16.png)
 
-- Langkah ke lima belas membuat syntax apabila memilih pilihan yang tidak ada di menu yang di atas
-   ![gambar1](gambar/gambar1.png)
 
-- Langkah ke enam belas jika kita ingin menginputkan yang selain ada di menu di atas seperti "t,u,c,l,h,k" maka kemudian kita akan di minta untuk memilih menu yang tersedia
+## FLOWCHART
+![gambar](gambar/p17.jpeg)
