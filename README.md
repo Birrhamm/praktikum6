@@ -3,24 +3,22 @@
 
 
 - Tampilan kontak dari Ari di bawah ini
-![gambar1](gambar/gambar1.png)
 
 - Menambahkan kontak baru dengan menggunakan nama Riko nomor 087654544
-![gambar1](gambar/gambar1.png)
 
 - Mengubah kontak Dina dengan nomor yang baru 088999776
 
 - Menampilkan semua daftar nama di atas
-![gambar1](gambar/gambar1.png)
 
 - Menampilkan semua daftar nomor di atas
-  ![gambar1](gambar/gambar1.png)
   
 - Menampilkan semua daftar nama dan nomor yang tertera di atas
-  ![gambar1](gambar/gambar1.png)
+  ![gambar](gambar/p1.png)
+  ![gambar](gambar/p2.png)
+  
 - Menghapus kontak dina 
-  ![gambar1](gambar/gambar1.png)
- 
+  ![gambar](gambar/p3.png)
+  ![gambar](gambar/p4.png)
 
 ###  TUGAS PRAKTIKUM 6
 
