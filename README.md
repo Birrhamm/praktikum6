@@ -1,5 +1,4 @@
 ## Membuat dictionary dari daftar kontak
-![gambar1](gambar/gambar1.png)
 
 
 - Tampilan kontak dari Ari di bawah ini
