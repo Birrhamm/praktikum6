@@ -2,7 +2,6 @@
 
 
 - Tampilan kontak dari Ari
--
 
 - Menambahkan kontak baru dengan menggunakan nama Riko nomor 087654544
 
